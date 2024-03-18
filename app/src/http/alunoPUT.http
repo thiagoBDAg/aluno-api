@@ -1,0 +1,8 @@
+PUT https://8080-thiagobdag-alunoapi-zoc797wh9t5.ws-us110.gitpod.io/alunos/2
+Content-Type: application/json
+
+{
+    "nome": "Gustavo",
+    "idade": 21,
+    "curso": "MAP"
+}
